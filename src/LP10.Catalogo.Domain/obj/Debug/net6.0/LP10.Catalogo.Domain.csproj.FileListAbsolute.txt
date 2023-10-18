@@ -1,0 +1,15 @@
+C:\Users\Luan\source\repos\DDD.Implementation\src\LP10.Catalogo.Domain\bin\Debug\net6.0\LP10.Catalogo.Domain.deps.json
+C:\Users\Luan\source\repos\DDD.Implementation\src\LP10.Catalogo.Domain\bin\Debug\net6.0\LP10.Catalogo.Domain.dll
+C:\Users\Luan\source\repos\DDD.Implementation\src\LP10.Catalogo.Domain\bin\Debug\net6.0\LP10.Catalogo.Domain.pdb
+C:\Users\Luan\source\repos\DDD.Implementation\src\LP10.Catalogo.Domain\bin\Debug\net6.0\LP10.Core.dll
+C:\Users\Luan\source\repos\DDD.Implementation\src\LP10.Catalogo.Domain\bin\Debug\net6.0\LP10.Core.pdb
+C:\Users\Luan\source\repos\DDD.Implementation\src\LP10.Catalogo.Domain\obj\Debug\net6.0\LP10.Catalogo.Domain.csproj.AssemblyReference.cache
+C:\Users\Luan\source\repos\DDD.Implementation\src\LP10.Catalogo.Domain\obj\Debug\net6.0\LP10.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\source\repos\DDD.Implementation\src\LP10.Catalogo.Domain\obj\Debug\net6.0\LP10.Catalogo.Domain.AssemblyInfoInputs.cache
+C:\Users\Luan\source\repos\DDD.Implementation\src\LP10.Catalogo.Domain\obj\Debug\net6.0\LP10.Catalogo.Domain.AssemblyInfo.cs
+C:\Users\Luan\source\repos\DDD.Implementation\src\LP10.Catalogo.Domain\obj\Debug\net6.0\LP10.Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luan\source\repos\DDD.Implementation\src\LP10.Catalogo.Domain\obj\Debug\net6.0\LP10.Catalogo.Domain.csproj.CopyComplete
+C:\Users\Luan\source\repos\DDD.Implementation\src\LP10.Catalogo.Domain\obj\Debug\net6.0\LP10.Catalogo.Domain.dll
+C:\Users\Luan\source\repos\DDD.Implementation\src\LP10.Catalogo.Domain\obj\Debug\net6.0\refint\LP10.Catalogo.Domain.dll
+C:\Users\Luan\source\repos\DDD.Implementation\src\LP10.Catalogo.Domain\obj\Debug\net6.0\LP10.Catalogo.Domain.pdb
+C:\Users\Luan\source\repos\DDD.Implementation\src\LP10.Catalogo.Domain\obj\Debug\net6.0\ref\LP10.Catalogo.Domain.dll
