@@ -1,4 +1,4 @@
-﻿using LP10.Catalogo.Domain;
+﻿using LP10.Catalogo.Domain.Entities;
 using LP10.Catalogo.Domain.Repository;
 using LP10.Core.Data;
 using Microsoft.EntityFrameworkCore;

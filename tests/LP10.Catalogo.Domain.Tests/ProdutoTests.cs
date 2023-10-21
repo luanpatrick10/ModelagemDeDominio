@@ -1,3 +1,5 @@
+using LP10.Catalogo.Domain.Entities;
+using LP10.Catalogo.Domain.ValueObjects;
 using LP10.Core.Domain_Objects;
 
 namespace LP10.Catalogo.Domain.Tests

@@ -1,6 +1,7 @@
-﻿using LP10.Core.Domain_Objects;
+﻿using LP10.Catalogo.Domain.ValueObjects;
+using LP10.Core.Domain_Objects;
 
-namespace LP10.Catalogo.Domain
+namespace LP10.Catalogo.Domain.Entities
 {
     public class Produto : Entity, IAggregateRoot
     {

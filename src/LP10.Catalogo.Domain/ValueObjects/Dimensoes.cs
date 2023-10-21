@@ -1,6 +1,6 @@
 ﻿using LP10.Core.Domain_Objects;
 
-namespace LP10.Catalogo.Domain
+namespace LP10.Catalogo.Domain.ValueObjects
 {
     public class Dimensoes
     {

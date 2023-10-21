@@ -1,4 +1,5 @@
-﻿using LP10.Core.Data;
+﻿using LP10.Catalogo.Domain.Entities;
+using LP10.Core.Data;
 
 namespace LP10.Catalogo.Domain.Repository
 {
