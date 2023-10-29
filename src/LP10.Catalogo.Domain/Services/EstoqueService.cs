@@ -4,7 +4,7 @@ using LP10.Core.Bus;
 
 namespace LP10.Catalogo.Domain.Services
 {
-    public class EstoqueService
+    public class EstoqueService : IEstoqueService
     {
         private readonly IProdutoRepository _produtoRepository;
         private readonly IMediatrHandler _bus;
